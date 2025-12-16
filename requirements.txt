@@ -1,7 +1,7 @@
 Pandas
 Numpy
 Flask
-Scikit-learn
+Scikit-learn==1.7.1
 Matplotlib
 Seaborn
 gunicorn
